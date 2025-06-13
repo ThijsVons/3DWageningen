@@ -1,0 +1,17 @@
+name: Wodka_Mole_Project
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - spyder
+  - owslib
+  - gdal
+  - geopandas
+  - rasterio
+  - rasterstats
+  - affine
+  - osmnx
+  - mayavi
+  - pydeck
+  - geojson
+  - glob
